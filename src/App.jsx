@@ -4,7 +4,7 @@ const App = () => {
 const [username,SetUsename] = useState('');
 return (
 <>
-<ComponentThree name="ReactJs"></ComponentThree>
+<ComponentTwo />
 </>
 )
 }
